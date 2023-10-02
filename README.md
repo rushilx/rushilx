@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushil Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" wwidth="400px" src="![image](https://github.com/rushilx/rushilx/assets/143258489/56a0eddf-698f-4859-b473-a91340c80ec8)
-">
+<img align="right" alt="coding" wwidth="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2vCp-4vh6MMk9ot4BjSfr8&ust=1696339261529000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCk7Kq614EDFQAAAAAdAAAAABAx">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushilx&label=Profile%20views&color=0e75b6&style=flat" alt="rushilx" /> </p>
 
