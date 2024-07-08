@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushil Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Python AI + ML developer from India</h3>
 
 <img align="right" alt="coding" wwidth="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2vCp-4vh6MMk9ot4BjSfr8&ust=1696339261529000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCk7Kq614EDFQAAAAAdAAAAABAx">
 
